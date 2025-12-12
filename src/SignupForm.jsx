@@ -3,7 +3,7 @@ import {
   LockClosedIcon,
   UserIcon,
 } from "@heroicons/react/16/solid";
-import Input from "./input";
+import Input from "./InputField";
 import Checkbox from "./Checkbox";
 import { useState } from "react";
 import SuccessAlert from "./SuccessAlert";
