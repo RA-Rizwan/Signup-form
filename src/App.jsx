@@ -1,4 +1,4 @@
-import Form from "./form.jsx";
+import Form from "./SignupForm";
 
 function App() {
   return (
